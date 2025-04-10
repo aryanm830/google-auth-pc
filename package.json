@@ -1,0 +1,26 @@
+{
+  "name": "google-auth-pc",
+  "version": "1.0.0",
+  "description": "Google Authenticator For PC, Works on Nodejs",
+  "main": "index.js",
+ 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aryanm830/google-auth-pc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["google","googleauth","Authenticator", "nodejs", "javascript","google authenticator", "authy"],
+  "author": "aryanm830",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.10",
+    "otplib": "^12.0.1",
+    "protobufjs": "^7.4.0",
+    "qrcode-reader": "^1.0.4",
+    "rfc4648": "^1.5.4"
+  }
+}
