@@ -51,13 +51,7 @@ A secure two-factor authentication (2FA) implementation for enhanced account sec
 
 6. To Exit, Press Ctrl + C
 
-## Star History
+
 ## Star History
 
-<a href="https://www.star-history.com/#aryanm830/google-auth-pc&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aryanm830/google-auth-pc&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aryanm830/google-auth-pc&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aryanm830/google-auth-pc&type=Timeline" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=aryanm830/google-auth-pc&type=Date)](https://www.star-history.com/#aryanm830/google-auth-pc&Date)
